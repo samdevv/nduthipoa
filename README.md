@@ -1,3 +1,4 @@
+NduthiPoa helps you get transport easily from within your location.The app detects your location and gives you the registered transport providers within your location.To access the contacts of the Nduthi guys users are required to login with their google account.Its safe and reliable.
 NduthiPoa app now available on playstore.
 Website:https://www.nduthipoa.co.ke/
 
